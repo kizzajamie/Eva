@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Eva+Coded+By+Anirudh..."
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Eva+Coded+By+꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩..."
             alt="Typing SVG"
         />
     </a>
@@ -17,17 +17,17 @@
 
 
 <p align="center">
-<a href="https://wa.me/message/3UE3B6RT7XTLE1"><img title="Eva" src="https://img.shields.io/badge/Contact Eva-SudoAnirudh/Eva?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/message/YV6MSQYRLWEWA1"><img title="Eva" src="https://img.shields.io/badge/Contact Eva-SudoAnirudh/Eva?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 
 
   <p align="center">
-<a href="https://wa.me/919539102851"><img title="Author" src="https://img.shields.io/badge/Author-SudoAnirudh/Eva?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/message/YV6MSQYRLWEWA1"><img title="Author" src="https://img.shields.io/badge/Author-SudoAnirudh/Eva?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make it public
+Project created by <a href="https://github.com/kizzajamie">Anirudh</a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,13 +37,13 @@ Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make 
 ----
 
   <p align="center">
-  <a href="https://github.com/SudoAnirudh/Eva">
-    <img src="https://img.shields.io/github/repo-size/SudoAnirudh/Eva?color=green&label=Repo%20total%20size&style=italic">
+  <a href="https://github.com/kizzajamie/Eva">
+    <img src="https://img.shields.io/github/repo-size/kizzajamie/Eva?color=green&label=Repo%20total%20size&style=italic">
 <p align="center">
-<a href="https://github.com/SudoAnirudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/SudoAnirudh?color=red&style=flat-circle"></a>
-<a href="https://github.com/SudoAnirudh/Eva/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SudoAnirudh/Eva?color=red&style=flat-square"></a>
-<a href="https://github.com/SudoAnirudh/Eva/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SudoAnirudh/Eva?color=red&style=flat-square"></a>
-<a href="https://github.com/SudoAnirudh/Eva/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SudoAnirudh/Eva?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/kizzajamie/followers"><img title="Followers" src="https://img.shields.io/github/followers/SudoAnirudh?color=red&style=flat-circle"></a>
+<a href="https://github.com/kizzajamie/Eva/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SudoAnirudh/Eva?color=red&style=flat-square"></a>
+<a href="https://github.com/kizzajamie/Eva/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SudoAnirudh/Eva?color=red&style=flat-square"></a>
+<a href="https://github.com/kizzajamie/Eva/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SudoAnirudh/Eva?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 
@@ -54,7 +54,7 @@ Project created by <a href="https://github.com/SudoAnirudh">Anirudh</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoAnirudh/Eva)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kizzajamie/Eva)
      </div>
 <br>
 <br >
