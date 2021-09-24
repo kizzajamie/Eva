@@ -3,9 +3,9 @@
     "description": "Eva project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://telegra.ph/file/fd4230902e75d397d8667.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/SudoAnirudh/Eva",
-    "website":   "https://wa.me/919539102851",
-    "success_url": "https://wa.me/919539102851",
+    "repository": "https://github.com/kizzajamie/Eva",
+    "website":   "https://wa.me/message/YV6MSQYRLWEWA1",
+    "success_url": "https://wa.me/message/YV6MSQYRLWEWA1",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
