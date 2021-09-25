@@ -8,23 +8,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudoAnirudh/Eva.git"
+    "url": "git+https://github.com/kizzajamie/Eva.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "ai",
     "Eva",
-    "Anirudh"
-    "SudoAnirudh"
+    "꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩"
+    "kizzajamie"
   ],
-  "author": "Anirudh",
-  "developer": "@SudoAnirudh",
+  "author": "꧁༒🄹🄰🄼🄸🄴.🅺༒꧂⁩",
+  "developer": "@kizzajamie",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SudoAnirudh/Eva/issues"
+    "url": "https://github.com/kizzajamie/Eva/issues"
   },
-  "homepage": "https://github.com/SudoAnirudh/Eva#readme",
+  "homepage": "https://github.com/kizzajamie/Eva#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
